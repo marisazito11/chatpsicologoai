@@ -13,13 +13,13 @@ Final project for the Building AI course
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Cosa può fare (Funzioni principali)
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+* Supporto 24/7: È sempre disponibile, a qualsiasi ora, offrendo un sollievo immediato in momenti di solitudine, stress acuto o insonnia occasionale.
+* Applicazione della CBT: Molti chatbot (come Woebot o Wysa) sono addestrati su tecniche di Terapia Cognitivo-Comportamentale (CBT) per aiutare a identificare e ristrutturare pensieri negativi o distorti.
+* Esercizi di rilassamento: Può guidarti in tempo reale attraverso tecniche di respirazione, meditazione mindfulness o esercizi di journaling (scrittura riflessiva).
+* Monitoraggio dell'umore: Funziona come un diario intelligente, tracciando le tue emozioni nel tempo e aiutandoti a visualizzare schemi o ricorrenze nel tuo stato d'animo.
+* Psicoeducazione: Può fornire informazioni su disturbi comuni (ansia, stress, burnout) e suggerire strategie di coping basate su prove scientifiche.
 
 ## How is it used?
 
