@@ -74,7 +74,11 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Esigenze critiche da considerare:
+* Privacy e Sicurezza dei Dati: Trattandosi di dati estremamente sensibili, la crittografia e l'anonimato sono requisiti non negoziabili.
+* Riconoscimento dei Rischi (Red Flags): Il sistema deve essere in grado di rilevare parole chiave legate all'autolesionismo o a gravi patologie psichiatriche, attivando immediatamente protocolli di emergenza o fornendo contatti di centri antiviolenza/prevenzione.
+* Etica e Trasparenza: L'utente deve essere sempre consapevole di parlare con una macchina e non con un medico.
+In sintesi, la soluzione si colloca come uno strumento di prevenzione e supporto di primo livello, ideale per democratizzare l'accesso alle risorse di salute mentale, purché inserita in un quadro etico rigoroso.
 
 ## What next?
 
