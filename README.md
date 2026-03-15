@@ -40,7 +40,8 @@ Gli utenti principali si dividono in categorie con esigenze diverse:
 * Lavoratori in Burnout: Tecniche di micro-meditazione, esercizi per la gestione del tempo e dello stress lavorativo.
 * Persone con fobie sociali: Un ambiente sicuro dove aprirsi senza la pressione del contatto visivo o del giudizio umano.
 
-https://github.com/marisazito11/chatpsicologoai/blob/main/chat-psi.avif
+![Chat-psi.aviv](https://github.com/marisazito11/chatpsicologoai/blob/main/chat-psi.avif)
+
 
 This is how you create code examples:
 ```
