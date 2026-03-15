@@ -40,13 +40,7 @@ Gli utenti principali si dividono in categorie con esigenze diverse:
 * Lavoratori in Burnout: Tecniche di micro-meditazione, esercizi per la gestione del tempo e dello stress lavorativo.
 * Persone con fobie sociali: Un ambiente sicuro dove aprirsi senza la pressione del contatto visivo o del giudizio umano.
 
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+chatgpt-psicologo-1200x675.avif
 
 This is how you create code examples:
 ```
