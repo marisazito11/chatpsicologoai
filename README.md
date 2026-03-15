@@ -1,5 +1,5 @@
 # chatpsicologoai
-"chatpsicologo AI" (o chatbot terapeutico) è un software progettato per simulare una conversazione di supporto psicologico utilizzando l'intelligenza artificiale. Sebbene non possa sostituire un terapeuta umano, può svolgere diverse funzioni utili per il benessere mentale quotidiano.
+
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+"chatpsicologo AI" (o chatbot terapeutico) è un software progettato per simulare una conversazione di supporto psicologico utilizzando l'intelligenza artificiale. Sebbene non possa sostituire un terapeuta umano, può svolgere diverse funzioni utili per il benessere mentale quotidiano. 
 
 
 ## Background
