@@ -10,7 +10,6 @@ Final project for the Building AI course
 
 "chatpsicologo AI" (o chatbot terapeutico) è un software progettato per simulare una conversazione di supporto psicologico utilizzando l'intelligenza artificiale. Sebbene non possa sostituire un terapeuta umano, può svolgere diverse funzioni utili per il benessere mentale quotidiano. 
 
-
 ## Background
 
 Cosa può fare (Funzioni principali)
@@ -23,7 +22,24 @@ Cosa può fare (Funzioni principali)
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+1. Il Processo di Utilizzo della Soluzione
+L'interazione con un'AI per il supporto psicologico non è lineare, ma ciclica, basata sul feedback continuo:
+* Accesso e Profilazione: L'utente accede all'interfaccia (app o web) e solitamente completa un breve questionario sullo stato d'animo attuale o su obiettivi specifici (es. ridurre l'ansia, migliorare il sonno).
+* Interazione Dialogica: Attraverso il linguaggio naturale, l'utente esprime i propri pensieri. L'AI analizza il testo per identificare pattern cognitivi (es. "pensiero tutto o nulla" o "catastrofizzazione").
+* Intervento Guidato: L'AI propone strategie basate sulla Terapia Cognitivo-Comportamentale (CBT), come la ristrutturazione dei pensieri, o tecniche di rilassamento immediato.
+* Monitoraggio e Reportistica: Il sistema registra i progressi e offre all'utente una visione d'insieme dell'andamento emotivo nel tempo, utile per l'autoconsapevolezza.
+2. Situazioni in cui è necessaria (Ambiente e Tempistica)
+La soluzione non sostituisce la terapia clinica, ma è necessaria in contesti specifici:
+* Ambienti ad alto stress: Luoghi di lavoro frenetici, contesti accademici durante le sessioni d'esame o situazioni di isolamento sociale.
+* Tempistiche critiche (Supporto 24/7): È fondamentale durante le ore notturne o nei fine settimana, quando i professionisti umani non sono reperibili e l'utente sperimenta picchi di ansia o insonnia.
+* Fase di pre-terapia: Quando una persona avverte un disagio ma non è ancora pronta (economicamente o emotivamente) a rivolgersi a uno psicologo in carne ed ossa.
+* Gestione della cronicità lieve: Per mantenere i risultati ottenuti dopo una terapia conclusa, agendo come "assistente al benessere" quotidiano.
+3. Utenti e Esigenze da considerare
+Gli utenti principali si dividono in categorie con esigenze diverse:
+* Giovani Digitalizzati: Privacy assoluta, interfaccia intuitiva, risposte rapide e linguaggio non giudicante.
+* Lavoratori in Burnout: Tecniche di micro-meditazione, esercizi per la gestione del tempo e dello stress lavorativo.
+* Persone con fobie sociali: Un ambiente sicuro dove aprirsi senza la pressione del contatto visivo o del giudizio umano.
+
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
